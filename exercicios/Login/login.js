@@ -3,7 +3,6 @@ function boasVindas(nomeUsuario)  {
     console.log(`Login efetuado com sucesso!`);
 } 
 
-function logout(nomeUsuario) {
-    console.log(`Logout feito com sucesso! Até mais ${nomeUsuario}`);
-    
+function Logout(nomeUsuario){
+   console.log(`Logout feito com sucesso! Até mais ${nomeUsuario}`);
 }
